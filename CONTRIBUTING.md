@@ -1,11 +1,11 @@
-# Contributing to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+# Contributing to [github-readme-stats](https://github.com/htouqeer938/github-readme-stats)
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
--   Reporting [an issue](https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=bug&template=bug_report.yml).
--   [Discussing](https://github.com/anuraghazra/github-readme-stats/discussions) the current state of the code.
--   Submitting [a fix](https://github.com/anuraghazra/github-readme-stats/compare).
--   Proposing [new features](https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=enhancement&template=feature_request.yml).
+-   Reporting [an issue](https://github.com/htouqeer938/github-readme-stats/issues/new?assignees=&labels=bug&template=bug_report.yml).
+-   [Discussing](https://github.com/htouqeer938/github-readme-stats/discussions) the current state of the code.
+-   Submitting [a fix](https://github.com/htouqeer938/github-readme-stats/compare).
+-   Proposing [new features](https://github.com/htouqeer938/github-readme-stats/issues/new?assignees=&labels=enhancement&template=feature_request.yml).
 -   Becoming a maintainer.
 
 ## All Changes Happen Through Pull Requests
@@ -57,9 +57,9 @@ While creating the Pull request to add a new theme **don't forget to add a scree
 
 In short, when you submit changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report issues/bugs using GitHub's [issues](https://github.com/anuraghazra/github-readme-stats/issues)
+## Report issues/bugs using GitHub's [issues](https://github.com/htouqeer938/github-readme-stats/issues)
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/anuraghazra/github-readme-stats/issues/new/choose); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/htouqeer938/github-readme-stats/issues/new/choose); it's that easy!
 
 ## Frequently Asked Questions (FAQs)
 
@@ -71,16 +71,16 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 > **Ans:**
 >
-> -   docs: <https://github.com/anuraghazra/github-readme-stats/#deploy-on-your-own-vercel-instance>
+> -   docs: <https://github.com/htouqeer938/github-readme-stats/#deploy-on-your-own-vercel-instance>
 > -   YT tutorial by codeSTACKr: <https://www.youtube.com/watch?v=n6d4KHSKqGk&feature=youtu.be&t=107>
 
 **Q:** Language Card is incorrect
 
 > **Ans:** Please read all the related issues/comments before opening any issues regarding language card stats:
 >
-> -   <https://github.com/anuraghazra/github-readme-stats/issues/136#issuecomment-665164174>
+> -   <https://github.com/htouqeer938/github-readme-stats/issues/136#issuecomment-665164174>
 >
-> -   <https://github.com/anuraghazra/github-readme-stats/issues/136#issuecomment-665172181>
+> -   <https://github.com/htouqeer938/github-readme-stats/issues/136#issuecomment-665172181>
 
 **Q:** How to count private stats?
 
