@@ -301,37 +301,37 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
 
 - Repo kartı düzenleyin
 

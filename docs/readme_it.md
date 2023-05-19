@@ -75,7 +75,7 @@ Per creare una Card con le statistiche GitHub, copia e incolla nel tuo file mark
 Ricorda di cambiare il valore `?username=` con il tuo nome utente GitHub.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 _Nota: I punteggi sono calcolati sulla base delle tue statistiche, dai un'occhiata a [src/calculateRank.js](../src/calculateRank.js) per ulteriori informazioni_
@@ -87,7 +87,7 @@ Per nascondere qualche dato, puoi aggiungere i parametri `?hide=`, separando i v
 > Opzioni: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 ```
 
 ### Includere i contributi privati nel computo totale
@@ -99,7 +99,7 @@ _Nota: se hai deciso di fare il deploy del progetto, i contributi privati verran
 > Opzioni: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ```
 
 ### Mostrare le icone
@@ -107,7 +107,7 @@ _Nota: se hai deciso di fare il deploy del progetto, i contributi privati verran
 Per abilitare le icone, puoi specificare `show_icons=true`, ad esempio:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ```
 
 ### Temi
@@ -117,7 +117,7 @@ Esistono alcuni temi predefiniti coi quali è possibile personalizzare l'aspetto
 Usa il parametro `?theme=NOME_TEMA` in questo modo:-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ```
 
 #### Galleria dei temi:-
@@ -248,33 +248,33 @@ Puoi utilizzare l'opzione `&layout=compact` per cambiare l'aspetto della card.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 - Nascondere dati specifici
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
 
 - Mostrare le icone
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
 
 - Includere tutti i commit
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
 
 - Temi
 
 Scegli uno dei [temi di default](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalizzare le Stats Card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personalizzare le Repo Card
 

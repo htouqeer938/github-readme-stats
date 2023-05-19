@@ -76,7 +76,7 @@ Kopieer en plak dit in je markdown content, zo simpel is het!
 Verander de waarde `?username=` naar jou gebruikersnaam.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 _Notitie: Beschikbare rangen zijn S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (iedereen).
@@ -91,7 +91,7 @@ Om specifieke statistieken te verbergen, kan je een `?hide=` query parameter toe
 > Opties: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 ```
 
 ### Voeg privé contributies toe aan totale commits.
@@ -103,7 +103,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 > Opties: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ```
 
 ### Laat icoontjes zien
@@ -111,7 +111,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 Om icoontjes te gebruiken kan je `show_icons=true` gebruiken in de query parameter, zoals hier:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ```
 
 ### Thema\'s
@@ -121,7 +121,7 @@ Met ingebouwde thema\'s kan je het uiterlijk van de kaart aanpassen zonder enige
 Gebruik `?theme=THEME_NAME` parameters zo :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ```
 
 #### Alle ingeboude thema\'s :-
@@ -298,37 +298,37 @@ Verander de `?username=` waarde naar je [Wakatime](https://wakatime.com) gebruik
 
 - Standaard
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 - Verberg specifieke statestieken
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
 
 - Weergeef icoontjes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
 
 - Voeg alle commits toe
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
 
 - Thema\'s
 
 Kies uit de [standaard thema\'s](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - Kleurenverloop
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Pas statistieken kaart aan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Stel je kaart locale (taal) in
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
 
 - Pas repo kaart aan.
 

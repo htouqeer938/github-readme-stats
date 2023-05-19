@@ -104,7 +104,7 @@ Copy-paste this into your markdown content, and that is it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
+[![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
 ```
 
 > **Note**
@@ -117,7 +117,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&hide=contribs,prs)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&hide=contribs,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -130,7 +130,7 @@ You can add the count of all your private contributions to the total commits cou
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&count_private=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&count_private=true)
 ```
 
 ### Showing icons
@@ -138,7 +138,7 @@ You can add the count of all your private contributions to the total commits cou
 To enable icons, you can pass `&show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true)
 ```
 
 ### Themes
@@ -148,7 +148,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes
@@ -161,8 +161,8 @@ You can look at a preview for [all available themes](./themes/README.md) or chec
 
 #### Responsive Card Theme
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-light-mode-only)
+[![Touqeer Hussain's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-dark-mode-only)
+[![Touqeer Hussain's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
@@ -171,13 +171,13 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=transparent)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=transparent)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=transparent)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=transparent)
 
 </details>
 
@@ -186,13 +186,13 @@ We have included a `transparent` theme that has a transparent background. This t
 You can use the `bg_color` parameter to make any of [the available themes](./themes/README.md) transparent. This is done by setting the `bg_color` to a color with a transparent alpha channel (i.e. `bg_color=00000000`):
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&bg_color=00000000)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&bg_color=00000000)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&bg_color=00000000)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&bg_color=00000000)
 
 </details>
 
@@ -201,15 +201,15 @@ You can use the `bg_color` parameter to make any of [the available themes](./the
 You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
 
 ```md
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-light-mode-only)
+[![Touqeer Hussain's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-dark-mode-only)
+[![Touqeer Hussain's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-light-mode-only)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-light-mode-only)
+[![Touqeer Hussain's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-dark-mode-only)
+[![Touqeer Hussain's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/htouqeer938/github-readme-stats#gh-light-mode-only)
 
 </details>
 
@@ -506,45 +506,45 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 -   Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938)
 
 -   Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&hide=contribs,issues)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&hide=contribs,issues)
 
 -   Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&hide=issues&show_icons=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&hide=issues&show_icons=true)
 
 -   Shows Github logo instead rank level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&rank_icon=github)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&rank_icon=github)
 
 -   Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&border_color=2e4058)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&border_color=2e4058)
 
 -   Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&include_all_commits=true)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&include_all_commits=true)
 
 -   Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=radical)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=radical)
 
 -   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 -   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=htouqeer938&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=htouqeer938&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -   Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=htouqeer938&locale=es)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api/?username=htouqeer938&locale=es)
 
 -   Customizing repo card
 
